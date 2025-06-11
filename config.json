@@ -1,0 +1,5 @@
+{
+  "email_sender": "balajiiiiii24@gmail.com",
+  "email_subject": "Summer Sale Alert!",
+  "email_body_template": "Hello {name}, check out our summer sale with up to 50% off!"
+}
